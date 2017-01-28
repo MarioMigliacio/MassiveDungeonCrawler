@@ -33,9 +33,18 @@
     <ClCompile Include="Unit.cpp">
       <Filter>Resource Files\Monsters</Filter>
     </ClCompile>
+    <ClCompile Include="Rat.cpp">
+      <Filter>Resource Files\Monsters</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Unit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="master.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
